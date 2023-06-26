@@ -1,8 +1,5 @@
 FROM node:alpine3.16
 
-
-
-
 RUN mkdir /backend
 
 
